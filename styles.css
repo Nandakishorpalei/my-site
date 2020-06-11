@@ -72,26 +72,24 @@ h1{
   height: 300px;
   width: 300px;
   border-width:20px;
-  border-style:solid;
-  border-top-color: blue;
-  border-bottom-color: blue;
+  border-style:double;
+  border-color: blue;
 }
 .n2{
-  background-color: aqua;
+  background-color: aqua;-color: blue;
+  border-bottom-color: blue;
   height: 300px;
   width: 300px;
   padding: 80px;
  margin-left: 515px;
   border-width:20px;
-  border-style:solid;
-  border-top-color: blue;
-  border-bottom-color: blue;
+  border-style:double;
+  border-color: blue;
 }
   .n3 {
     background-color: chartreuse;
     margin-left: 500px;
-    border-top-color: blue;
-    border-bottom-color: blue;
+    border-color: blue;
     font-size: 40px;
     height: 200px;
     width: 200px;
@@ -100,27 +98,25 @@ h1{
   border-style:solid;
   }
   .n4{
-    background-color: yellow;
+    background-color: mediumspringgreen;
 
     padding: 80px;
     border: 10px;
     height: 300px;
     width: 300px;
     border-width:20px;
-    border-style:solid;
-    border-top-color: blue;
-    border-bottom-color: blue;
+     border-style:double;
+  border-color: blue;
   }
   .n5{
-    background-color: yellow;
+    background-color: mediumspringgreen;
     height: 300px;
     width: 300px;
     padding: 80px;
    margin-left: 515px;
     border-width:20px;
-    border-style:solid;
-    border-top-color: blue;
-    border-bottom-color: blue;
+     border-style:double;
+  border-color: blue;
   }
   .i1{
     height: 300px;
