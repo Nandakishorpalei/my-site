@@ -64,4 +64,39 @@ h1{
   width: 120px;
   height: 120px;
 }
-s
+.n1{
+  background-color: red;
+  font-size: 40px;
+  padding: 100px;
+  border: 10px;
+  height: 200px;
+  width: 200px;
+  border-width:20px;
+  border-style:solid;
+  border-top-color: blue;
+  border-bottom-color: blue;
+}
+.n2{
+  background-color: lightgreen;;
+  margin-left: 440px;
+  border-top-color: blue;
+  border-bottom-color: blue;
+  font-size: 40px;
+  height: 200px;
+  width: 200px;
+padding: 150px;
+border-width:10px;
+border-style:solid;
+}
+.n3{
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  font-size: 40px;
+  padding: 150px;
+  margin-left: 960px;
+  border-width:20px;
+  border-style:solid;
+  border-top-color: blue;
+  border-bottom-color: blue;
+}
