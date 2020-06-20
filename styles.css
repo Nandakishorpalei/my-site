@@ -11,6 +11,8 @@ body{
   background-image: url("https://images2.imgbox.com/e1/d9/TBIaUNgx_o.gif");
   margin: 0;
   height: 1800px;
+    position:relative;
+    bottom:130px;
 }
 .aa{
   height: 100px;
@@ -53,6 +55,8 @@ h1{
 }
 .t1{
   font-size:  20px;
+  position:relative;
+  top:130px;
 }
 .bb{
   padding-top: 200px;
