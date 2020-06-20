@@ -10,7 +10,7 @@ body{
   background-size: cover;
   background-image: url("https://images2.imgbox.com/e1/d9/TBIaUNgx_o.gif");
   margin: 0;
-  height: 800px;
+  height: 1800px;
 }
 .aa{
   height: 100px;
@@ -30,15 +30,15 @@ h1{
    padding-left: 60px;
 }
 .middlecontainer{
-    background-color: lightgreen;
+
     height: 200px;
     padding-left: 200px;
     padding-right: 200px;
-    padding-top: 100px;
+    padding-top: 750px;
     font-size: 80px;
 }
 .bottomcontainer{
-    background-color: orange;
+
     height: 200px;
     padding-left: 200px;
     padding-right: 200px;
@@ -53,7 +53,6 @@ h1{
 }
 .t1{
   font-size:  20px;
-  position:fixed;
 }
 .bb{
   padding-top: 200px;
@@ -79,8 +78,7 @@ h1{
   border-color: blue;
 }
 .n2{
-  background-color: aqua;-color: blue;
-  border-bottom-color: blue;
+  background-color: aqua;
   height: 300px;
   width: 300px;
   padding: 80px;
@@ -108,8 +106,8 @@ h1{
     height: 300px;
     width: 300px;
     border-width:20px;
-     border-style:double;
-  border-color: blue;
+    border-style:double;
+    border-color: blue;
   }
   .n5{
     background-color: mediumspringgreen;
@@ -118,21 +116,30 @@ h1{
     padding: 80px;
    margin-left: 515px;
     border-width:20px;
-     border-style:double;
-  border-color: blue;
+    border-style:double;
+    border-color: blue;
   }
   .i1{
     height: 300px;
+
   }
   .i2{
     height: 300px;
+
   }
   .i3{
     height: 300px;
+
   }
   .i4{
-    height: 300px;
+        height: 300px;
   }
   .i5{
-    height: 300px;
+      height: 300px;
+  }
+  .t3{
+    background-color:red;
+  }
+  .t4{
+    background-color: red;
   }
